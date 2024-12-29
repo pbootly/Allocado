@@ -3,4 +3,5 @@ Allacado is a simple custom memory allocator written in C. It simulates a memory
 
 # Building
 `make test` - Simple allocate and free test
+
 `make` - builds allocado binary, which simply iterates through a loop, randomly allocating or freeing memory from the pool
